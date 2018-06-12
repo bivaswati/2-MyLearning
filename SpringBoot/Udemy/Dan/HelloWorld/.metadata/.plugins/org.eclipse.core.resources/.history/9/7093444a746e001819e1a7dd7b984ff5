@@ -1,0 +1,17 @@
+package com.sb.notofication;
+
+public class NotificationService {
+
+	public NotificationService() {
+
+	}
+
+	public void send() {
+
+	}
+
+	public void sendAsync() {
+
+	}
+
+}

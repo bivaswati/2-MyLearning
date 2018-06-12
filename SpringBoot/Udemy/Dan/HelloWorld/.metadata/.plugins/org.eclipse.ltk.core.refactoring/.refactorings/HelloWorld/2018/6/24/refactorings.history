@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.sb.notofication&apos; to &apos;com.sb.notification&apos;&#x0D;&#x0A;- Original project: &apos;HelloWorld&apos;&#x0D;&#x0A;- Original element: &apos;HelloWorld/src/main/java/com.sb.notofication&apos;&#x0D;&#x0A;- Renamed element: &apos;HelloWorld/src/main/java/com.sb.notification&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.sb.notofication&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.sb.notofication" name="com.sb.notification" qualified="false" references="true" stamp="1528831655129" textual="false" version="1.0"/>
+</session>

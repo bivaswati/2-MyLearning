@@ -1,0 +1,24 @@
+package com.sb.notofication;
+
+public class NotificationService {
+
+	public NotificationService() {
+
+	}
+
+	public void send() {
+
+	}
+
+	public void sendAsync() {
+
+	}
+
+	@Override
+	public String toString() {
+		return "NotificationService [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
+	}
+	
+	
+
+}
